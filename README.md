@@ -17,12 +17,10 @@
 
 ## 🚀 CÁCH CÀI ĐẶT & SỬ DỤNG
 
-### 1. Khởi động (Chỉ cần 1 Cú Click)
-Bạn chỉ cần Double-click vào file:
-👉 **`start.vbs`**
-
-- **Lần đầu tiên chạy (hoặc sang máy mới):** Nếu máy chưa có Python hoặc thiếu thư viện `pynput`, script sẽ yêu cầu `Quyền Admin`. Bạn cứ nhấn **Yes**, nó sẽ **tự động tải và cài đặt Python 3.12 (64-bit) & thư viện**. Tự động mở app sau khi cài xong.
-- **Các lần sau:** Sau khi đã đủ máy móc, script sẽ chạy âm thầm, không hiện màn hình CMD đen gây khó chịu.
+### 1. Khởi động (Phiên bản EXE Mì Ăn Liền)
+Bạn không cần phải cài đặt rườm rà. Chỉ cần tải về và chạy!
+👉 Tải về thư mục tải xuống chứa file **`MacroPlayer.exe`** và thư mục **`sheets/`**.
+👉 Nhấp đúp vào **`MacroPlayer.exe`** để mở ứng dụng. Không cần cài Python, không cần cài gì thêm!
 
 ### 2. Tab Nhạc 📂
 - Là nơi hiển thị thư viện sheet nhạc nằm trong thư mục `sheets/`. 
