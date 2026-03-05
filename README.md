@@ -1,6 +1,6 @@
 # 🎵 MACRO PLAYER
 
-Ứng dụng Macro Player mạnh mẽ hỗ trợ chơi nhạc tự động trong game (Genshin, Roblox, v.v...) với giao diện GUI thân thiện, luôn nổi trên màn hình và hỗ trợ Hotkey tùy chỉnh hoàn toàn.
+Ứng dụng Macro Player mạnh mẽ hỗ trợ chơi nhạc tự động trong game (Sky: Children of the Light, Heartopia...) với giao diện GUI thân thiện, luôn nổi trên màn hình và hỗ trợ Hotkey tùy chỉnh hoàn toàn.
 
 ---
 
