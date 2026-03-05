@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+
+# Ignore testing sheets etc. if desired, but we probably want to keep sheets/
+# sheets/
+hotkeys.json
